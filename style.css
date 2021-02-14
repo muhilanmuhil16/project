@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    margin: 0;
+    width:98.5vw;
+    background-color: grey;
+    /* background: url("../img/bg7.jpg"); */
+    object-fit:contain; 
+    pointer-events: none;  
+}
+#movie{
+    padding: 0 10%;
+    margin-left: 15%;
+}
+#stle{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    pointer-events: none;
+}
+#titl{
+    margin-top: 5%;
+    position: relative;
+    width: 50%;
+    height: 80%;
+    left: 25%;
+    display: flex;
+    opacity: 0;
+}
+#favg{
+    position:relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    opacity: 0;
+    left:20%;
+    box-shadow:-10px 10px 25px  black ;
+    border-radius: 30%;
+    transform: scale(0);
+}
+#irn1{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left:20%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:10px 10px 25px  black ;
+    transform: scale(0);
+}
+#hulk{
+    position:relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    left:20%;
+    border-radius: 30%;
+    box-shadow:-10px 10px 25px  black ;
+    transform: scale(0);
+}
+#irn2{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left:20%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:10px 10px 25px  black ;
+    transform: scale(0);    
+}
+#thor{
+    position:relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:-10px 10px 25px  black ;
+    left:20%;
+    transform: scale(0); 
+}
+
+#wasp{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left:20%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:10px 10px 25px  black ;
+    transform: scale(0);    
+}
+#cpmr{
+    position:relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    left:20%;
+    border-radius: 30%;
+    box-shadow:-10px 10px 25px  black ;
+    transform: scale(0); 
+}
+#ragk{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left:20%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:10px 10px 25px  black ;
+    transform: scale(0);    
+}
+#inwr{
+    position:relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    left:20%;
+    border-radius: 30%;
+    box-shadow:-10px 10px 25px  black ;
+    transform: scale(0); 
+}
+#edgm{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left:20%;
+    display: flex;
+    border-radius: 30%;
+    box-shadow:10px 10px 25px  black ;
+    transform: scale(0);    
+}
+#spfr{
+    position: relative;
+    width: 30%;
+    height: 85%;
+    margin-top: 9%;
+    display: flex;
+    left:20%;
+    border-radius: 30%;
+    box-shadow:-10px 10px 25px  black ;
+    transform: scale(0); 
+}
+img{
+    
+    margin-bottom:2%;
+    padding: 0;
+    height: 100px;
+    width: 100px;
+}
